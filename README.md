@@ -7,7 +7,15 @@ PerformanceTest
 
 - Load Testing - Stress Testing 
 
-## What is thinking-time ?
+## Peformance testing tools:
+
+- JMeter
+
+- LoadRunner
+
+## Definitions:
+
+### 1. What is thinking-time ?
 
 
-## What is response time ?
+### 2. What is response time ?
