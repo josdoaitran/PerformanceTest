@@ -12,9 +12,10 @@ PerformanceTest for Web App testing
 
 ## Peformance testing tools:
 
-- JMeter
-
-- LoadRunner
+- [JMeter](https://jmeter.apache.org/)
+- [Gatling](https://gatling.io/)
+- [K6](https://k6.io/)
+- [LoadRunner](https://www.microfocus.com/en-us/products/loadrunner-professional/overview)
 
 ## Definitions:
 
@@ -22,3 +23,9 @@ PerformanceTest for Web App testing
 
 
 ### 2. What is response time ?
+
+## Monitoring tools (The visibility stack):
+
+- [Grafana] (https://grafana.com/)
+- [Datadog](https://www.datadoghq.com/)
+- [NewRelic](https://newrelic.com/)
